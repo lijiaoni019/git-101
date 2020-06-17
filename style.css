@@ -1,12 +1,13 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
-	color: red;
+	background: red;
 }
 
-<h1> { 
-font-weight: 200 } 
-</h1>
+h1 { 
+font-weight: 100;
+color: white
+} 
 
 
 #logo {
